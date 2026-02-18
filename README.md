@@ -19,3 +19,7 @@ una actualizacion yo solo
 
 
 Practicando yo solo, enviando un mensaje 
+
+
+envio mensaje aprendiendo git push 
+
